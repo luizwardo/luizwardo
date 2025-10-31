@@ -4,6 +4,6 @@
 
 
 ### About:
- Computer Science @ Unisul
- IT Analyst @ Dataprev
- Santa Catarina, Brazil
+ Computer Science @ Unisul <br/>
+ IT Analyst @ Dataprev <br/>
+ Santa Catarina, Brazil 
